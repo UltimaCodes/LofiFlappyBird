@@ -52,5 +52,3 @@ Select different resolutions and toggle fullscreen mode to adjust your viewing p
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Let me know if you need any changes to the README or additional features in the game!
