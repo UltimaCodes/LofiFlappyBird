@@ -1,67 +1,56 @@
-Lofi 3D Flappy Bird
+Here’s a GitHub README template for your Flappy Bird game with all the details:
 
-Welcome to Lofi 3D Flappy Bird, a chill reimagining of the classic Flappy Bird game in a tranquil 3D environment. This project combines nostalgic gameplay with a relaxing lofi aesthetic, perfect for casual gaming or unwinding after a long day.
+---
 
-Features
+# Flappy Bird - Unity Game
 
-Lofi Aesthetic: Experience smooth visuals and soothing lofi beats.
+This is a simple Flappy Bird clone made using Unity, featuring dynamic pipe spawning, bird controls, and basic game UI. It includes features like a main menu, settings, and high score tracking. The game also includes customizable settings for volume control, rain toggles, resolution settings, and fullscreen toggle.
 
-3D Gameplay: Navigate your bird through a fully rendered 3D world.
+## Features
 
-Dynamic Obstacles: Test your skills with procedurally generated pipe placements.
+- **Main Menu**: Start the game and access settings.
+- **Settings Menu**: Includes volume control, rain toggle, resolution, and fullscreen options.
+- **Flappy Bird Mechanics**: The bird flaps automatically when the game starts and can be controlled by the player using the spacebar.
+- **Dynamic Pipe Spawning**: Pipes spawn periodically and are synchronized with the rhythm of the music.
+- **Score Tracking**: The score is displayed on the screen, and the high score is saved.
+- **Collisions**: The bird collides with pipes and the floor, restarting the game on collision.
+- **Responsive UI**: The UI includes the main menu, score display, and settings menu, all seamlessly integrated.
 
-Endless Mode: Keep flying for as long as you can to beat your high score.
+## Game Controls
 
-Customizable Controls: Play your way with intuitive controls that feel right for you.
+- **Spacebar**: Make the bird jump.
+- **Esc**: Return to the main menu during the game.
+  
+## Requirements
 
-Screenshots
+- Unity (any recent version should work)
+- TextMesh Pro (for UI)
+- Unity's built-in physics for collision detection
+- Audio for background music (optional, for rhythm syncing)
 
+## Setup
 
+### Download the zip file, unzip and use the .exe to play
 
+## Settings
 
-How to Play
+### Volume Control
+Adjust the volume of in-game sounds via the settings menu.
 
-Tap or click to flap your bird's wings and keep it in the air.
+### Rain Toggle
+Turn on or off a rain effect in the game for added ambiance.
 
-Avoid the pipes and other obstacles to stay alive.
+### Resolution & Fullscreen
+Select different resolutions and toggle fullscreen mode to adjust your viewing preferences.
 
-Relax and enjoy the music while aiming for a high score!
+### Controls
+- **Spacebar**: Make the bird jump.
+- **Esc**: Pause and return to the main menu.
 
-Installation
+## License
 
-Clone the repository:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-git clone https://github.com/yourusername/lofi-3d-flappy-bird.git
+---
 
-Open the project in Unity (compatible with Unity version 202X.X or later).
-
-Build and run the game on your preferred platform.
-
-Alternatively, download the latest release from the Releases page.
-
-Contributing
-
-We welcome contributions! If you'd like to add features, fix bugs, or improve the game, feel free to:
-
-Fork the repository.
-
-Create a new branch:
-
-git checkout -b feature-name
-
-Commit your changes and push to your fork.
-
-Open a pull request.
-
-Credits
-
-Developer: Your Name
-
-Music: Original lofi beats by [Artist Name] (or royalty-free source).
-
-Assets: Models and textures from [Source or self-made].
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
+Let me know if you need any changes to the README or additional features in the game!
