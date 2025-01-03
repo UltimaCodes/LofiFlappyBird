@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6591993304096019225}
   m_Layer: 0
   m_Name: PipeGate
-  m_TagString: Untagged
+  m_TagString: Pipe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -93,6 +93,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pipe (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5386759178884353538, guid: 14ec08c96b653d443bb1fc17581218c2, type: 3}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -161,6 +165,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5386759178884353538, guid: 14ec08c96b653d443bb1fc17581218c2, type: 3}
       propertyPath: m_Name
+      value: Pipe
+      objectReference: {fileID: 0}
+    - target: {fileID: 5386759178884353538, guid: 14ec08c96b653d443bb1fc17581218c2, type: 3}
+      propertyPath: m_TagString
       value: Pipe
       objectReference: {fileID: 0}
     m_RemovedComponents: []
