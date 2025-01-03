@@ -1,4 +1,3 @@
-Here’s a GitHub README template for your Flappy Bird game with all the details:
 
 ---
 
